@@ -16,7 +16,7 @@
 
 ### LOCAL - Clone/FORK
 
-1. Clone o repositório para seu ambiente com o comando `git clone https://github.com/batestin1/code_the_future_diobot.git`.
+1. Clone o repositório para seu ambiente com o comando `git clone https://github.com/batestin1/coding_the_future_dio_redes_neurais`.
 2. Abra a pasta Machine Learning e o notebook `machine_learning_com_harryPotter.ipynb` via juptyer notebook ou a IDE de sua preferência.
 
 ### COLAB - Clone/FORK
