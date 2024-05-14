@@ -21,7 +21,7 @@
 
 ### COLAB
 
-1. Abra o link `https://colab.research.google.com/drive/1Cg05Y7tNE2Xun6zdL0ImamH-YDiwYyEY?usp=sharing`.
+1. Clique no [Link](https://colab.research.google.com/drive/1Cg05Y7tNE2Xun6zdL0ImamH-YDiwYyEY?usp=sharing)
 
 ----
 
@@ -34,7 +34,7 @@
 
 ### COLAB 
 
-1. Abra o link `https://colab.research.google.com/drive/1H_JV-gMQy84wXIUcO6x-QTREiL89PctC?usp=sharing`.
+1. Clique no [Link](https://colab.research.google.com/drive/1H_JV-gMQy84wXIUcO6x-QTREiL89PctC?usp=sharing)
 
 ----
 
@@ -47,7 +47,7 @@
 
 ### COLAB - Clone/FORK
 
-1. Abra o link `https://colab.research.google.com/drive/1gAS0oLq0XdqgoIPFT4tXtpBRRwHue9Ra?usp=sharing`.
+1. Clique no [Link](https://colab.research.google.com/drive/1gAS0oLq0XdqgoIPFT4tXtpBRRwHue9Ra?usp=sharing)
 
 ----
 
@@ -60,7 +60,7 @@
 
 ### COLAB - Clone/FORK
 
-1. Abra o link `https://colab.research.google.com/drive/14M3B0koKMEkMeb8rxyeWW65_8Sg6JES9?usp=sharing`.
+1. Clique no [Link](https://colab.research.google.com/drive/14M3B0koKMEkMeb8rxyeWW65_8Sg6JES9?usp=sharing).
 
 ---
 
@@ -73,7 +73,7 @@
 
 ### COLAB - Clone/FORK
 
-1. Abra o link `https://colab.research.google.com/drive/1kOooFFPkhIe3xep1R1rV9lE5vASGTI8s?usp=sharing`.
+1. Clique no [Link](https://colab.research.google.com/drive/1kOooFFPkhIe3xep1R1rV9lE5vASGTI8s?usp=sharing).
 
 ---
 
@@ -81,4 +81,4 @@
 
 ### LINK
 
-1. [Desafio](https://www.kaggle.com/c/predict-movie-ratings/overview)
+1. Clique no [Desafio](https://www.kaggle.com/c/predict-movie-ratings/overview)
