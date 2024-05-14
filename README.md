@@ -74,3 +74,11 @@
 ### COLAB - Clone/FORK
 
 1. Abra o link `https://colab.research.google.com/drive/1kOooFFPkhIe3xep1R1rV9lE5vASGTI8s?usp=sharing`.
+
+---
+
+## BONUS KAGGLE
+
+### LINK
+
+1. [Desafio](https://www.kaggle.com/c/predict-movie-ratings/overview)
