@@ -12,7 +12,7 @@
 
 
 --- 
-## MACHINE LEARNING
+# MACHINE LEARNING
 
 ### LOCAL - Clone/FORK
 
@@ -25,7 +25,7 @@
 
 ----
 
-## REDES NEURAIS ARTIFICIAIS (RNA)
+# REDES NEURAIS ARTIFICIAIS (RNA)
 
 ### LOCAL - Clone/FORK
 
@@ -38,7 +38,7 @@
 
 ----
 
-## REDES NEURAIS RECORRENTES (RNN)
+# REDES NEURAIS RECORRENTES (RNN)
 
 ### LOCAL - Clone/FORK
 
@@ -51,7 +51,7 @@
 
 ----
 
-## Auto-Encoders
+# Auto-Encoders
 
 ### LOCAL - Clone/FORK
 
@@ -64,7 +64,7 @@
 
 ---
 
-## Redes Neurais Convolucionais
+# Redes Neurais Convolucionais
 
 ### LOCAL - Clone/FORK
 
@@ -77,7 +77,7 @@
 
 ---
 
-## BONUS KAGGLE
+# BONUS KAGGLE
 
 ### LINK
 
