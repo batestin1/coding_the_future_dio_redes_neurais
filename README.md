@@ -19,7 +19,7 @@
 1. Clone o repositório para seu ambiente com o comando `git clone https://github.com/batestin1/coding_the_future_dio_redes_neurais`.
 2. Abra a pasta Machine Learning e o notebook `machine_learning_com_harryPotter.ipynb` via juptyer notebook ou a IDE de sua preferência.
 
-### COLAB - Clone/FORK
+### COLAB
 
 1. Abra o link `https://colab.research.google.com/drive/1Cg05Y7tNE2Xun6zdL0ImamH-YDiwYyEY?usp=sharing`.
 
@@ -32,7 +32,20 @@
 1. Clone o repositório para seu ambiente com o comando `git clone https://github.com/batestin1/coding_the_future_dio_redes_neurais`.
 2. Abra a pasta Redes Neurais Artificiais e o notebook `redes_neurais_artificiais.ipynb` via juptyer notebook ou a IDE de sua preferência.
 
-### COLAB - Clone/FORK
+### COLAB 
 
 1. Abra o link `https://colab.research.google.com/drive/1H_JV-gMQy84wXIUcO6x-QTREiL89PctC?usp=sharing`.
+
+----
+
+## REDES NEURAIS RECORRENTES (RNN)
+
+### LOCAL - Clone/FORK
+
+1. Clone o repositório para seu ambiente com o comando `git clone https://github.com/batestin1/coding_the_future_dio_redes_neurais`.
+2. Abra a pasta Redes Neurais Recorrentes e o notebook `redes_neurais_recorrentes.ipynb` via juptyer notebook ou a IDE de sua preferência.
+
+### COLAB - Clone/FORK
+
+1. Abra o link `https://colab.research.google.com/drive/1gAS0oLq0XdqgoIPFT4tXtpBRRwHue9Ra?usp=sharing`.
 
