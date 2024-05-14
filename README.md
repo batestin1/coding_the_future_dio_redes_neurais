@@ -82,3 +82,4 @@
 ### LINK
 
 1. Clique no [Desafio](https://www.kaggle.com/c/predict-movie-ratings/overview)
+2. [SURPRESA](https://ai.google.dev/competition/?utm_source=kaggle&utm_medium=email&utm_campaign=may-devcomp&utm_content)
