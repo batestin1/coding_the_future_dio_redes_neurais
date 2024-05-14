@@ -49,3 +49,28 @@
 
 1. Abra o link `https://colab.research.google.com/drive/1gAS0oLq0XdqgoIPFT4tXtpBRRwHue9Ra?usp=sharing`.
 
+----
+
+## Auto-Encoders
+
+### LOCAL - Clone/FORK
+
+1. Clone o repositório para seu ambiente com o comando `git clone https://github.com/batestin1/coding_the_future_dio_redes_neurais`.
+2. Abra a pasta Redes Neurais Auto Encoders e o notebook `redes_neurais_auto_encoders.ipynb` via juptyer notebook ou a IDE de sua preferência.
+
+### COLAB - Clone/FORK
+
+1. Abra o link `https://colab.research.google.com/drive/14M3B0koKMEkMeb8rxyeWW65_8Sg6JES9?usp=sharing`.
+
+---
+
+## Redes Neurais Convolucionais
+
+### LOCAL - Clone/FORK
+
+1. Clone o repositório para seu ambiente com o comando `git clone https://github.com/batestin1/coding_the_future_dio_redes_neurais`.
+2. Abra a pasta RRedes Neurais Convolucionais e o notebook `redes_neurais_convolucionais.ipynb` via juptyer notebook ou a IDE de sua preferência.
+
+### COLAB - Clone/FORK
+
+1. Abra o link `https://colab.research.google.com/drive/1kOooFFPkhIe3xep1R1rV9lE5vASGTI8s?usp=sharing`.
