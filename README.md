@@ -4,7 +4,7 @@
 <h3> <p align="center">CODE THE FUTURE - REDES NEURAIS ARTIFICIAIS </p> </h3>
 <h3> <p align="center"> ================= </p> </h3>
 
-<h3> Descritivo </h3>
+# Descritivo 
 
 <p> O presente repositório contém os códigos e instruções da apresentação no Coding The Future #19 - Redes Neurais Artificiais - Do Zero ao Absoluto. </p>
 <p> Recomendações, lógica de programação, python e funções matemáticas. </p>
