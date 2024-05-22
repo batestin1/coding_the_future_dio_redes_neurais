@@ -7,3 +7,6 @@ SLF4J: Actual provider is of type [scribe.slf4j.ScribeServiceProvider@548165ea]
 2024.05.20 19:29:05 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
 2024.05.20 19:29:05 WARN  no build tool detected in workspace '/Users/mayconcyprianobatestin/Documents/curso/dio/redes_neurais_artificiais'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 2024.05.20 19:29:05 WARN  Build server is not auto-connectable.[0m
+2024.05.21 17:05:31 INFO  Shutting down server[0m
+2024.05.21 17:05:31 INFO  shutting down Metals[0m
+2024.05.21 17:05:31 INFO  Exiting server[0m
